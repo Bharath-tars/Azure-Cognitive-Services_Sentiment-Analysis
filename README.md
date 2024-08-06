@@ -36,7 +36,7 @@ Follow the steps below to get started with sentiment analysis using Azure Cognit
 The script will output the sentiment score for the provided text.
 
 ### Contributing
-Contributions are welcome! If you would like to contribute to this project, please follow these steps:
+Contributions are welcome!! If you would like to contribute to this project, please follow these steps:
 
 1. Fork this repository to your own GitHub account.
 2. Clone the repository to your local machine using `git clone https://github.com/your-username/Azure-Cognitive-Services_Sentiment-Analysis.git`.
